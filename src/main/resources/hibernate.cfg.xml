@@ -45,9 +45,9 @@ Contributor(s):
     <!--<property name="hibernate.connection.driver_class">org.postgresql.Driver</property>-->
       <property name="hibernate.dialect">org.hibernate.dialect.PostgreSQLDialect</property>
     <property name="hibernate.connection.driver_class">org.postgresql.Driver</property>
-    <property name="hibernate.connection.url">jdbc:postgresql://localhost:5432/qwack</property>
-    <property name="hibernate.connection.username">postgres</property>
-    <property name="hibernate.connection.password">baleendah</property>
+    <property name="hibernate.connection.url">jdbc:postgresql://ec2-54-235-123-159.compute-1.amazonaws.com:5432/d5vh54sh237rmp</property>
+    <property name="hibernate.connection.username">wbuuvceuawpwbb</property>
+    <property name="hibernate.connection.password">94e9b581d21bf5e1efd3498ce99b1ebe21870e9ed1862f5bf8e208453aa49c20</property>
     <!-- create / create-drop / update -->
     <property name="hibernate.hbm2ddl.auto">create</property>
     <!-- Show SQL in console -->
